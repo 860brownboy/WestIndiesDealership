@@ -1,0 +1,57 @@
+{
+  "VehicleCatalog": {
+    "2020 GLE 53 AMG": {
+      "AssetId": 126893003303038,
+      "Config": {
+        "Cost": 45000,
+        "Offsale": false,
+        "Pass_Type": "None",
+        "FuelConsume": 0.5,
+        "FuelType": "Gas",
+        "IsTeamLocked": false,
+        "IsGroupLocked": false,
+        "GiveVehicleOnJoin": false,
+        "CanSell": true
+      },
+      "Labels": ["Luxury", "SUV"],
+      "DisplayName": "2020 Mercedes GLE 53 AMG",
+      "Description": "Luxury SUV with powerful performance",
+      "ImageId": "rbxassetid://0",
+      "MaxFuel": 100,
+      "TeamName": "",
+      "GroupId": 0,
+      "MinGroupRank": 0,
+      "GamepassId": 0,
+      "BadgeId": 0
+    },
+    "2014 Toyoza crown athlete G": {
+      "AssetId": 139347032465662,
+      "Config": {
+        "Cost": 25000,
+        "Offsale": false,
+        "Pass_Type": "None",
+        "FuelConsume": 0.3,
+        "FuelType": "Gas",
+        "IsTeamLocked": false,
+        "IsGroupLocked": false,
+        "GiveVehicleOnJoin": false,
+        "CanSell": true
+      },
+      "Labels": ["Sport", "Sedan"],
+      "DisplayName": "2014 Toyoza Crown Athlete G",
+      "Description": "Sport sedan with excellent handling",
+      "ImageId": "rbxassetid://0",
+      "MaxFuel": 80,
+      "TeamName": "",
+      "GroupId": 0,
+      "MinGroupRank": 0,
+      "GamepassId": 0,
+      "BadgeId": 0
+    }
+  },
+  "Settings": {
+    "AutoLoadVehicles": true,
+    "CacheVehicles": true,
+    "RefreshInterval": 300
+  }
+}
